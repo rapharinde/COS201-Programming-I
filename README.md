@@ -2,9 +2,9 @@
 Practical exercises for COS 201 Computer Programming I.
 
 ## Student Information
-- Name: Theodorio Oluwatobi Joshua
-- Matriculation Number: 25/16448
-- Programme: Cybersecurity (CYB)
+- Name: Arinde Raphael
+- Matriculation Number: 25/17969
+- Programme: Computer Science
 - Course: COS 201 - Computer Programming I
 
 ---
